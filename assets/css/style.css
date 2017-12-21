@@ -1,0 +1,24 @@
+h1{
+	text-align: center;
+	font-size: 80px;
+}
+
+body{
+	background-image: url("https://consequenceofsound.files.wordpress.com/2015/10/are-you-afraid-dark.png?w=1200");
+	color: #a4d4dc;
+	
+}
+
+p {
+	font-size: 30px;
+}
+.jumbotron{
+	background: transparent !important;
+	color: #a4d4dc;
+}
+
+.container{
+	color: #a4d4dc;
+	font-size: 30px;
+}
+
