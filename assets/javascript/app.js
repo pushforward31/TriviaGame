@@ -7,7 +7,7 @@
         });
         var Correct = 0;
         var Incorrect = 0;
-        var number = 90;
+        var number = 75;
 
         //Set Countdown function
         function run() {
@@ -77,7 +77,7 @@
             else {
                 document.querySelector("#question").innerHTML = "Game Over!";
                 if (Correct >= Incorrect) {
-                    $("#Final").html("<span> You are hype to my era! </span>")
+                    $("#Final").html("<span> You are hype to the 90's! </span>")
                 } else {
                     $("#Final").html("<span> Seems you are to young to know anything!</span>")
 
