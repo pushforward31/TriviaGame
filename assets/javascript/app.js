@@ -75,7 +75,9 @@
 
             //Results after game     
             else {
-                document.querySelector("#question").innerHTML = "Game Over!";
+                document.querySelector("#question").innerHTML = "GAME OVER!!!!!!";
+
+                            stop()
                 if (Correct >= Incorrect) {
                     $("#Final").html("<span> You are hype to the 90's! </span>")
                 } else {

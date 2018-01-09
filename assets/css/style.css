@@ -3,6 +3,11 @@ h1{
 	font-size: 80px;
 }
 
+h2{
+	text-align: center;
+	font-size: 50px
+}
+
 body{
 	background-image: url("https://consequenceofsound.files.wordpress.com/2015/10/are-you-afraid-dark.png?w=1200");
 	color: #a4d4dc;
@@ -21,5 +26,9 @@ p {
 .container{
 	color: #a4d4dc;
 	font-size: 30px;
+}
+
+#Final{
+	font-size: 48px
 }
 
